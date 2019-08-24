@@ -22,6 +22,8 @@ wget https://raw.githubusercontent.com/joshilita/kali/master/KaliAdder.sh
 
 wget https://raw.githubusercontent.com/joshilita/kali/master/KaliDelete.sh
 
+wget https://raw.githubusercontent.com/joshilita/kali/master/KaliFullRemover.sh
+
 chmod +x KaliAdder.sh
 
 chmod +x KaliDelete.sh
